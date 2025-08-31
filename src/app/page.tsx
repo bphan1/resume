@@ -136,7 +136,7 @@ export default function Home() {
               From startup hustle to enterprise scale.
             </h2>
             <p className="text-slate-300 text-lg max-w-3xl mx-auto">
-              I've helped teams grow from scrappy beginnings to powering millions of users, learning what works (and what doesn't) along the way.
+              I&apos;ve helped teams grow from scrappy beginnings to powering millions of users, learning what works (and what doesn&apos;t) along the way.
             </p>
           </div>
           <div className="space-y-8">
