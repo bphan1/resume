@@ -29,7 +29,7 @@ export default function Home() {
               Brian Phan
             </h1>
             <p className="text-lg md:text-xl lg:text-2xl text-gray-700 mb-12 leading-relaxed max-w-3xl">
-              I'm a <strong>Software Engineering Manager</strong> with over a decade of experience building large-scale distributed systems across Amazon and Microsoft. My background spans software engineering and data science, and I've led teams across a range of domains—from machine learning to backend infrastructure. Lately, I've been focused on building the service platform for maintaining physical security for AWS sites around the globe.
+              I&apos;m a <strong>Software Engineering Manager</strong> with over a decade of experience building large-scale distributed systems across Amazon and Microsoft. My background spans software engineering and data science, and I&apos;ve led teams across a range of domains—from machine learning to backend infrastructure. Lately, I&apos;ve been focused on building the service platform for maintaining physical security for AWS sites around the globe.
             </p>
           </div>
         </div>
@@ -94,8 +94,8 @@ export default function Home() {
               <h3 className="text-xl md:text-2xl font-medium mb-2">Software Development Manager @ Amazon Devices & Services</h3>
               <p className="text-gray-600 mb-4">February 2024 - May 2025</p>
               <p className="text-gray-700 leading-relaxed">
-                Led compliance automation at scale for Devices & Services Trust & Privacy, driving initiatives that enable automatic, 
-                auditable enforcement of global regulations like GDPR, CCPA, and Digital Markets Act (DMA) for Amazon Devices & Services 
+                Led compliance automation at scale for Devices &amp; Services Trust &amp; Privacy, driving initiatives that enable automatic, 
+                auditable enforcement of global regulations like GDPR, CCPA, and Digital Markets Act (DMA) for Amazon Devices &amp; Services 
                 (eero, Ring, FireTV, Alexa, Kindle, Kuiper, and more).
               </p>
             </div>
@@ -114,9 +114,9 @@ export default function Home() {
               <h3 className="text-xl md:text-2xl font-medium mb-2">Software Development Engineer @ Alexa Mobile & Entertainment</h3>
               <p className="text-gray-600 mb-4">December 2017 - February 2020</p>
               <p className="text-gray-700 leading-relaxed">
-                Scaled core services powering Alexa's mobile, media, web, and backend platforms during international expansion to 40+ countries. 
+                Scaled core services powering Alexa&apos;s mobile, media, web, and backend platforms during international expansion to 40+ countries. 
                 Delivered 100x efficiency gains driving $50M–$75M in annual productivity improvements. Enhanced customer experience 
-                increasing Alexa Mobile App ratings from 1.5 to 4.6 stars, contributing to Amazon Music's growth to $1.5B annual revenue.
+                increasing Alexa Mobile App ratings from 1.5 to 4.6 stars, contributing to Amazon Music&apos;s growth to $1.5B annual revenue.
               </p>
             </div>
 
@@ -124,8 +124,8 @@ export default function Home() {
               <h3 className="text-xl md:text-2xl font-medium mb-2">Software Engineer @ Microsoft</h3>
               <p className="text-gray-600 mb-4">April 2015 - December 2017</p>
               <p className="text-gray-700 leading-relaxed">
-                Built and scaled Microsoft's marketplace services powering Xbox Live, Office, Windows, and Phone commerce functionality. 
-                Developed licensing and entitlement services supporting Xbox One's global launch, ensuring secure, high-availability access 
+                Built and scaled Microsoft&apos;s marketplace services powering Xbox Live, Office, Windows, and Phone commerce functionality. 
+                Developed licensing and entitlement services supporting Xbox One&apos;s global launch, ensuring secure, high-availability access 
                 to digital content across millions of users. Reduced Microsoft Catalog publishing latency from 18 hours to near-instant, 
                 and increased content delivery throughput by 18% while reducing costs by 40%.
               </p>
@@ -137,7 +137,7 @@ export default function Home() {
               <p className="text-gray-700 leading-relaxed">
                 Developed machine learning models and derived insights to improve operating system quality for Windows, Windows Phone, 
                 Xbox, Azure, and internal back-end systems. Applied advanced analytics and data science techniques to enhance 
-                engineering team decision-making and product quality across Microsoft's ecosystem.
+                engineering team decision-making and product quality across Microsoft&apos;s ecosystem.
               </p>
             </div>
           </div>
@@ -153,7 +153,7 @@ export default function Home() {
           </div>
           <div className="max-w-4xl">
             <p className="text-lg text-gray-700 leading-relaxed">
-              I focus on empowering teams to deliver their best work by creating clear processes that support both individual growth and organizational goals. My approach combines deep technical expertise with pragmatic leadership—I believe in building systems and teams that scale efficiently while maintaining the highest standards for privacy, security, and user trust. I constantly adapt my leadership style based on what the team needs to succeed, whether that's removing blockers, providing technical mentorship, or driving strategic alignment across organizations.
+              I focus on empowering teams to deliver their best work by creating clear processes that support both individual growth and organizational goals. My approach combines deep technical expertise with pragmatic leadership—I believe in building systems and teams that scale efficiently while maintaining the highest standards for privacy, security, and user trust. I constantly adapt my leadership style based on what the team needs to succeed, whether that&apos;s removing blockers, providing technical mentorship, or driving strategic alignment across organizations.
             </p>
           </div>
         </div>
@@ -162,7 +162,7 @@ export default function Home() {
       {/* Contact */}
       <section id="contact" className="py-20 px-6">
         <div className="max-w-6xl mx-auto text-center">
-          <h2 className="text-2xl md:text-3xl font-light mb-12">Let's Connect</h2>
+          <h2 className="text-2xl md:text-3xl font-light mb-12">Let&apos;s Connect</h2>
           <div className="flex flex-col md:flex-row justify-center items-center space-y-4 md:space-y-0 md:space-x-12 text-base md:text-lg">
             <a href="mailto:brian_phan@outlook.com" className="text-gray-700 hover:text-gray-900 transition-colors hover-lift">
               brian_phan@outlook.com
