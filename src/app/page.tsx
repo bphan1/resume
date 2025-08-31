@@ -27,9 +27,9 @@ export default function Home() {
         <div className="max-w-6xl mx-auto relative z-10">
           <div className="max-w-4xl animate-fade-in-up">
             <h1 className="text-4xl md:text-6xl lg:text-7xl font-light mb-8 leading-tight text-white">
-              Built for developers. 
+              Engineering leader. 
               <span className="bg-gradient-to-r from-purple-400 to-blue-400 bg-clip-text text-transparent">
-                Ready for enterprise.
+                Problem solver.
               </span>
             </h1>
             <p className="text-lg md:text-xl lg:text-2xl text-slate-300 mb-12 leading-relaxed max-w-3xl">
@@ -52,10 +52,10 @@ export default function Home() {
         <div className="max-w-6xl mx-auto">
           <div className="mb-16 text-center">
             <h2 className="text-3xl md:text-4xl font-light text-white mb-4">
-              More productive, from day one.
+              Building teams that thrive.
             </h2>
             <p className="text-slate-300 text-lg max-w-3xl mx-auto">
-              I believe developer productivity, code security, and infrastructure cost control can coexist—and proven experience makes it possible.
+              I believe great engineering comes from empowering talented people with the right tools, processes, and security—while never losing sight of what matters most.
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
@@ -133,10 +133,10 @@ export default function Home() {
         <div className="max-w-6xl mx-auto">
           <div className="mb-16 text-center">
             <h2 className="text-3xl md:text-4xl font-light text-white mb-4">
-              Fits your flow. Scales as you grow.
+              From startup hustle to enterprise scale.
             </h2>
             <p className="text-slate-300 text-lg max-w-3xl mx-auto">
-              Whether you&apos;re a team of 1 or 10,000, proven experience adapts to enterprise scale with the technologies you already use.
+              I've helped teams grow from scrappy beginnings to powering millions of users, learning what works (and what doesn't) along the way.
             </p>
           </div>
           <div className="space-y-8">
@@ -252,10 +252,10 @@ export default function Home() {
         <div className="max-w-6xl mx-auto">
           <div className="mb-16 text-center">
             <h2 className="text-3xl md:text-4xl font-light text-white mb-4">
-              No more &quot;works on my machine&quot;.
+              Leadership through real experience.
             </h2>
             <p className="text-slate-300 text-lg max-w-3xl mx-auto">
-              Standardize and shift development from individual silos to scalable infrastructure—without sacrificing the tools, speed, or experience teams need.
+              My approach comes from years of learning what actually moves the needle—building trust, removing blockers, and creating systems that let great engineers do their best work.
             </p>
           </div>
           <div className="max-w-4xl mx-auto">
