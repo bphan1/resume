@@ -44,12 +44,12 @@ export default function Home() {
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-12">
             <div>
-              <h3 className="text-xl font-medium mb-4">Security & Privacy</h3>
-              <p className="text-gray-600">Physical security systems, AI-powered access control, privacy-preserving infrastructure, secure enclaves, and XACML-based data governance</p>
+              <h3 className="text-xl font-medium mb-4">Operational Security</h3>
+              <p className="text-gray-600">Cloud and on-premise physical security systems. End-to-end device and video management support with ML and CV detection. </p>
             </div>
             <div>
               <h3 className="text-xl font-medium mb-4">Compliance Automation</h3>
-              <p className="text-gray-600">GDPR, CCPA, DMA automation and enforcement at global scale with auditable compliance frameworks</p>
+              <p className="text-gray-600">Privacy-preserving infrastructure, secure enclaves, and XACML-based data governance. GDPR, CCPA, DMA automation and enforcement at global scale with auditable compliance frameworks</p>
             </div>
             <div>
               <h3 className="text-xl font-medium mb-4">Distributed Systems</h3>
@@ -91,7 +91,7 @@ export default function Home() {
             </div>
             
             <div className="border-l-2 border-gray-200 pl-8 hover-lift">
-              <h3 className="text-xl md:text-2xl font-medium mb-2">Software Development Manager @ Amazon Devices & Services</h3>
+              <h3 className="text-xl md:text-2xl font-medium mb-2">Software Development Manager @ Amazon Devices & Services Privacy</h3>
               <p className="text-gray-600 mb-4">February 2024 - May 2025</p>
               <p className="text-gray-700 leading-relaxed">
                 Led compliance automation at scale for Devices &amp; Services Trust &amp; Privacy, driving initiatives that enable automatic, 
@@ -101,7 +101,7 @@ export default function Home() {
             </div>
 
             <div className="border-l-2 border-gray-200 pl-8 hover-lift">
-              <h3 className="text-xl md:text-2xl font-medium mb-2">Software Development Manager @ Alexa Privacy</h3>
+              <h3 className="text-xl md:text-2xl font-medium mb-2">Software Development Manager @ Amazon Alexa Privacy</h3>
               <p className="text-gray-600 mb-4">February 2020 - February 2024</p>
               <p className="text-gray-700 leading-relaxed">
                 Built privacy-preserving infrastructure including high-throughput privacy tools hosted on secure enclaves, 
@@ -111,7 +111,7 @@ export default function Home() {
             </div>
 
             <div className="border-l-2 border-gray-200 pl-8 hover-lift">
-              <h3 className="text-xl md:text-2xl font-medium mb-2">Software Development Engineer @ Alexa Mobile & Entertainment</h3>
+              <h3 className="text-xl md:text-2xl font-medium mb-2">Software Development Engineer @ Amazon Alexa Mobile & Entertainment</h3>
               <p className="text-gray-600 mb-4">December 2017 - February 2020</p>
               <p className="text-gray-700 leading-relaxed">
                 Scaled core services powering Alexa&apos;s mobile, media, web, and backend platforms during international expansion to 40+ countries. 
@@ -121,7 +121,7 @@ export default function Home() {
             </div>
 
             <div className="border-l-2 border-gray-200 pl-8 hover-lift">
-              <h3 className="text-xl md:text-2xl font-medium mb-2">Software Engineer @ Microsoft</h3>
+              <h3 className="text-xl md:text-2xl font-medium mb-2">Software Engineer @ Microsoft Xbox Store</h3>
               <p className="text-gray-600 mb-4">April 2015 - December 2017</p>
               <p className="text-gray-700 leading-relaxed">
                 Built and scaled Microsoft&apos;s marketplace services powering Xbox Live, Office, Windows, and Phone commerce functionality. 
@@ -132,7 +132,7 @@ export default function Home() {
             </div>
 
             <div className="border-l-2 border-gray-200 pl-8 hover-lift">
-              <h3 className="text-xl md:text-2xl font-medium mb-2">Data Scientist @ Microsoft</h3>
+              <h3 className="text-xl md:text-2xl font-medium mb-2">Data Scientist @ Microsoft Windows</h3>
               <p className="text-gray-600 mb-4">February 2014 - April 2015</p>
               <p className="text-gray-700 leading-relaxed">
                 Developed machine learning models and derived insights to improve operating system quality for Windows, Windows Phone, 
