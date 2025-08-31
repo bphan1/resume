@@ -164,8 +164,8 @@ export default function Home() {
         <div className="max-w-6xl mx-auto text-center">
           <h2 className="text-2xl md:text-3xl font-light mb-12">Let&apos;s Connect</h2>
           <div className="flex flex-col md:flex-row justify-center items-center space-y-4 md:space-y-0 md:space-x-12 text-base md:text-lg">
-            <a href="mailto:brian_phan@outlook.com" className="text-gray-700 hover:text-gray-900 transition-colors hover-lift">
-              brian_phan@outlook.com
+            <a href="mailto:brianphan06@gmail.com" className="text-gray-700 hover:text-gray-900 transition-colors hover-lift">
+              BrianPhan06@gmail.com
             </a>
             <a href="https://www.linkedin.com/in/brianphan-dev" target="_blank" rel="noopener noreferrer" 
                className="text-gray-700 hover:text-gray-900 transition-colors hover-lift">
