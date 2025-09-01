@@ -67,7 +67,7 @@ export default function Home() {
                 </svg>
               </div>
               <h3 className="text-xl font-semibold mb-4 text-white group-hover:text-purple-400 transition-colors">Operational Security</h3>
-              <p className="text-slate-300 leading-relaxed">Cloud and on-premise physical security systems. End-to-end device and video management support with ML and CV detection.</p>
+              <p className="text-slate-300 leading-relaxed">Cloud and on-premise physical security systems. End-to-end device and video management services with ML and CV detection.</p>
             </div>
 
             {/* Compliance Automation */}
