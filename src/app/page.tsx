@@ -182,7 +182,7 @@ export default function Home() {
                   <p className="text-purple-400 mb-4">February 2020 - February 2024</p>
                 </div>
                 <div className="w-12 h-12 bg-gradient-to-br from-cyan-500 to-blue-500 rounded-lg flex items-center justify-center">
-                  <span className="text-white font-bold text-xs">ALE</span>
+                  <span className="text-white font-bold text-xs">AMZ</span>
                 </div>
               </div>
               <p className="text-slate-300 leading-relaxed">
@@ -199,7 +199,7 @@ export default function Home() {
                   <p className="text-purple-400 mb-4">December 2017 - February 2020</p>
                 </div>
                 <div className="w-12 h-12 bg-gradient-to-br from-emerald-500 to-teal-500 rounded-lg flex items-center justify-center">
-                  <span className="text-white font-bold text-xs">ALE</span>
+                  <span className="text-white font-bold text-xs">AMZ</span>
                 </div>
               </div>
               <p className="text-slate-300 leading-relaxed">
